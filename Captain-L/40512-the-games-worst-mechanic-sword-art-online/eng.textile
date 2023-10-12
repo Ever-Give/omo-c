@@ -1,0 +1,458 @@
+﻿The Game's Worst Mechanic (Sword Art Online)
+
+Author: Captain L
+
+*000*2017-10-30 22:15
+
+Author's note: How did it end up this long? I remember being at the 2000 word count and wondering how I could keep it going...and that was yesterday! But that's the fun part of writing stories about games, throwing in references to other games.
+
+###
+
+By the accounts of any fan of high fantasy, the world of Aincrad was beautiful. Lots of green plant life in the grass and trees, large open fields, magic, swords, monsters, and dungeons. And it looked lifelike, an amazing feat for a VR MMO on home computers. That would be a fantastic selling point, players could get lost in the virtual world, if that wasn't literally what was happening. Sword Art Online, on the day of its full launch, had become a death game. All 10,000 players were trapped in the digital mindscape, with the only escape being one player clearing the hundredth floor. And if you die in the game, you die in real life.
+
+One would ordinarily assume clearing the game would not take long, video sites always had full playthroughs up of any game mere days after release, but SAO was proving different. Almost two years after Day Zero, as it had come to be known, the farthest any advance team had gotten was a floor in the 70's range. By this point, a majority of the surviving players had given up on ever escaping, and had begun treating the game world as their ordinary life.
+
+With that said, there were still those fighting to go the distance, beat the boss, and advance. The guilds were the shining example of force in Aincrad, with the top among them the Knights of the Blood Oath. The red-and-white-clad warriors were often seen on the front lines, cutting through the toughest enemies and scoring the sweetest loot drops. Most figured, if anyone would clear the game, it would be one of the Knights. And one of the top guesses was the order's second-in-command, the one known as Flash, Asuna.
+
+However, Asuna wasn't on the front lines today. It wasn't a constant push, there were breaks between the organized strikes, when the officers could go out on their own, so long as they were ready to return on a moment's notice. Taking advantage of her “day off”, the brunette swordswoman was going out on a lucrative sidequest.
+
+She wasn't going it alone, though, she had a partner to help her against the tough enemies. Not another guild member, but a solo player she had grown quite fond of, the Black Swordsman, Kirito. His aloof nature had initially caused friction, but as two of SAO's strongest players, they found themselves in each other's company frequently. It didn't take long past that for the two to find common ground, begin respecting each other, and now they were friends.
+
+That wasn't stopping Kirito from expressing displeasure with the excursion, before they had even officially started. “So what's the lame quest you needed my help on?”
+
+The two had only just arrived in a forest on floor 48 to properly begin the quest, and that being Kirito's first sentence rubbed Asuna the wrong way. “You know, if I'm such a burden, you don't have to agree to tag along. I just figured you'd want a chance to get some extra XP, help me get a one-of-a-kind legendary pot.”
+
+Upon hearing the prize, Kirito stopped his complaining, and started snickering instead. “Getting started on the 4/20 celebration a little early, aren't we? Gotta get that dank weed before anyone else!” Asuna sighed as he laughed at his own horrible humor, a laugh that went on too long until he finally caught his breath and realized he was the only one that found it funny. “This is why I don't usually tell jokes. Sorry, keep going.”
+
+While a part of her should have been annoyed he went for the dumb, low-hanging gag, she recognized that she should have expected that. Kirito was practically raised by the internet, after all, might as well just let it slide. “The quest card says this pot can add special, temporary in-game perks to food when mixed with certain extra ingredients. Things like improved attack power, faster movement speed, good stuff like that. You're the only person that eats my cooking, so you're the only other player that stands to benefit.”
+
+“Don't worry, I'll help,” Kirito confirmed. “But do you have any leads on location? Forests are kind of big and non-distinct, we could waste the entire day wandering, to say nothing about getting lost and going in circles. The map here sucks,” he offered, pulling up the map in front of him to show its total lack of details and landmarks.
+
+“Then we'll just have to get lucky, and be careful not to retrace our steps. We've got the time. I packed lunch, speaking of food. Plenty of drinks too, so we're set for as long as we want to be out.”
+
+“You really come better prepared for these things, Asuna. I just keep emergency rations, they work but they taste like crap. I'm lucky to have you making me food.” Kirito closed his eyes in a wide smile, which meant he didn't see Asuna blush at the compliment. It was an odd thing to be embarrassed by, considering how far she almost went with him one night on a misunderstanding, but things were kind of weird between them, personal praises like that felt important.
+
+Shaking her head, Asuna cleared her throat to retain control of the moment. “A-anyways, we're wasting time! We need to get searching!” With the thumbs up from Kirito, the two wandered off in direction unknown, hoping they'd succeed and secure the prize.
+
+###
+
+Only now, hours later, did Asuna realize she had made a mistake. Not with equipment, or supplies, or navigation, she was actually well-prepared for the mission she undertook. The issue popping up was a matter of timing. While she had recognized that this could be an all-day affair, she didn't think that through, all the implications it brought. The inevitability never crossed her mind as she enjoyed beverages with lunch. As such, she was now dealing with one of SAO's more controversial mechanics: the bladder meter.
+
+While not a “realistic” game, SAO did still require its players to keep tabs on their body for more than just health. They needed to sleep, they needed to eat, and most relevant now, they needed to drink and later expel those fluids, like some kind of simulation game. Some players didn't mind the system, others were vocally opposed until they were forced to accept it. Asuna was more in the latter camp, with an added dash of “Akihiko Kayaba is a pervert for programming this”. She swore to give him a good punch should they ever meet.
+
+However, that anger was back when the game started. Now, she had grown so accustomed to this medieval world that the pleasures of indoor plumbing had mostly been forgotten, where the best toilets you'd find were slightly clean chamber pots, and the wilderness more often than not took that role. Put simply, Asuna was so desensitized to peeing behind some plants when the need arose that it hardly even registered as something she should be embarrassed about.
+
+Around most people, that is. With people she barely knew, it wasn't much of a hurdle to say she needed a minute to herself. Problem was, Kirito was not someone she barely knew. He was very close to her, so if she admitted a need to whiz, she'd be around the guy she confessed it to for the rest of the day and many more to come. It was a normal human, or rather simulated human, concern, but that didn't make it an okay thing to just throw out there. Very few of her actions could be considered more private.
+
+For now, she'd just keep the matter to herself, it shouldn't be too hard. The bladder system of SAO was a lot more rigid than the real world, exactly the sort of thing one would expect from the programming on a throwaway mechanic. Asuna's meter currently read 80% on an orange bar, a fullness that would prompt serious desperation outside the game, but here only resulted in mild discomfort, a warning without pain, much like every other virtual injury. Besides, other players had reported (and she could confirm) that there was no such thing as leakage, clothes stayed completely dry until the total accident at 100%. It worked slower here too, a lot like the disconnect between day cycles and timers in other games, hours could pass without meaningful change. It was easy to be optimistic.
+
+“I just realized, we're on the 48th floor,” Kirito broke the silence to observe. “We should have stopped in to say hi to Lisbeth.”
+
+“That's only just occurring to you now,” Asuna asked, incredulously. “Well, better late than never, I suppose.”
+
+“Hey, I'm not the kind of guy who forgets a woman as soon as she's out of sight!” Not even five seconds later, he snapped his fingers as his face lit up in realization. “That reminds me, I haven't heard from Silica in a while.”
+
+“Probably should have expected that kind of social incompetence from a guy who plays an MMO day one,” Asuna sighed. “Of course, that doesn't make me much better. Regardless, it's bad manners to go visit a blacksmith before you've even used the weapon they made. Especially a blacksmith you almost got killed to make said weapon.”
+
+“I thought it was a fun little adventure. I mean, what's the fun without the sense of peril? And I'm saving the sword for a special occasion, isn't that enough of a compliment?”
+
+Asuna planned to retort with a snark about how little he understood women, but stopped short upon realizing it would reflect poorly on herself. She instead elected to refuse comment, a silence that said plenty. Nevertheless, there was one thing it kept obscured, how happy she was to have the conversation, beyond just enjoying time with a comrade. Despite all the reassurances, there was still a reality-programmed part of her brain reminding her how much she needed to pee, filling the gap of the lost feeling SAO removed. It provided a sense of real desperation that she needed distraction from, as well as from the knowledge that she could turn any spot in this forest into her bathroom.
+
+Well, she got what she asked for, in a shining, twisted example of fate's timing. In a way that could only be described as gamer's instinct, the two's attention locked to the same point in the distance. It was difficult to make out amidst all the trees, but at least two other players suddenly appeared. Whether they were always there or just teleported in, no one could tell, but there was something much more important of note, right on the player tags above their heads, in red font. “Red players,” Kirito warned in hushed tones. “Come on!” He grabbed Asuna's shoulder and pulled her down behind some nearby large bushes.
+
+She didn't need the prompting to hide. The game's only punishment for player killing was being branded as such with their always visible nametags turning orange, despite it actually being murder. Granted, neither Asuna nor Kirito thought either of these players could beat them, but it was hardly the smart thing to start fighting now. Not only did they have no idea how many more PKers could be hiding just out of sight, but they also had no insight on motive or possible employers. Not to mention, even in self-defense, killing them would still be killing. Not just in the game, but personal morality.
+
+However, she was ashamed to admit, that wasn't the worry on Asuna's mind. In truth, she had noticed these specific bushes earlier, observing how perfect they would be for her kind of cover in any other situation. Well, she was kneeling behind them now, just too bad she couldn't capitalize on the position. The mental repercussions of needing to go this bad were getting to her, she could just picture herself ripping down her underwear, squatting into total invisibility behind the cover, and letting loose. It was a nice ending to imagine.
+
+Too bad she still had reality to answer to. Or rather, in-game reality. The surely loud sound of her splashing liquids on the hard soil would not only attract attention from the players they were hiding from, but it would also defeat the purpose of hiding the need from Kirito in the first place, not to mention in a place where he was in a better position to watch the ensuing show. He had taught her to be afraid of dying, how ironic that him seeing that would leave her wishing for death.
+
+Why was she struggling so much now? She just checked her stats a little bit ago, where she was sitting at an acceptable 80%. It couldn't have possibly changed drastically in that short time, it had to all be in her mind. Just for confirmation, she pulled open her menu and took a peek at the meters. Things like hunger and thirst were still holding steady, but the bladder meter was now crimson red, the white text in front clearly reading a new number. “90%,” she whisper-called in disbelief.
+
+Understandable, given her situation, but she had forgotten that she was supposed to be quiet. She remembered the split second after making noise, and covered her mouth in what could be considered an attempt to stop the sound from getting out, for all the good that'd do. “What was that noise,” she heard one of them say from behind her wall of greenery. Unable to see, she could just imagine a classic question mark appearing above their head, coming over to check and discovering the guild leader in her handicapped state.
+
+Theoretically, Asuna may be able to fend off the attackers should it come to that, but it wouldn't be pretty. Aside from what would surely be a half-cooked attempt at non-lethal combat, her skill would be further masked by the painful urge to soak her clothing, a combination sure to end with a wet Asuna, at the minimum. Maybe Kirito could turn the tides in her favor, but there would have to be a tide first, a golden one.
+
+“Who cares,” a different voice offered, must have been the other guy they noticed. “What part of 'Black SwordsMAN' do you not get? Some girl doesn't change our task, dumbass.”
+
+“Yeah, but he's been spotted a lot with that Blood Oath chick. 'Esuna', or something.”
+
+“And? Can you tell me what a high-ranking Knight of the Blood Oath would be doing in this forest?”
+
+There was a long silence before the first guy answered, very hesitantly and weak. “They're...on a date?”
+
+The other one, Asuna had lost track, was in stunned silence, closing it out with a grumble. “Alright, come on. You're clearly not well.” The sound of someone being forcibly dragged echoed low to the ground. “Let's just find this guy before you start eating crayons or something.”
+
+Asuna and Kirito stayed quiet as the shuffling grew more distant, hardly even breathing, until they were sure the intruders had left. They stood up and cautiously walked out into the open, looking around to ensure there were no more lurkers. “Gotta be real, didn't see that coming,” Kirito finally spoke, bringing an end to the empty, awkward lull. “So, 90% what?”
+
+After the fear of being discovered, Asuna had forgotten why she had called out before. The discomfort in her abdomen was still there, no way she could ignore that, but the connection was lost. “Huh?”
+
+“You just suddenly shouted out '90%'. What was that all about?”
+
+And the awkwardness was back. The questioning was all it took to link the dots, as Asuna remembered why her little problem was so worrisome. She was extremely desperate, sure to lose control unfortunately very soon, and she had made the permanent mistake of giving a verbal hint to the only person she was keeping silent from. If he knew, there'd be no reason to keep holding it, but letting that knowledge slip was even worse. Possibly. “O-oh, it was...nothing! Yeah, nothing! Don't even worry about it!”
+
+Even as she was saying it, with the most forced smile ever produced by humanity and sweat rolling down her face, she knew there was no way Kirito would believe her. She was so unconvincing in her lies, absolutely no one could take her at her word. As she was looked over suspiciously, Asuna was already bracing herself to reveal the truth. It had to be better than having an public accident at her age, she kept going back and forth on which end would be more humiliating.
+
+Occupied with the debate, at a lull where she wasn't expecting a response, Kirito shrugged. “Alright, fine. Let's get back to the search.”
+
+That was the last response she would have expected, to the point she actually couldn't believe that was the response. It just wasn't possible that he actually believed her, no one could be that naive, that stupid. The only explanation was that he was purposefully respecting her privacy, but even that seemed a little unbelievable for the historically dense and thoughtless Kirito. Well, he had previously mentioned off-hand that he had a sister, maybe he was conditioned to leave girls alone when they said nothing was wrong.
+
+Problem was, despite being aware of something wrong with Asuna, he still wanted to stay on the quest path. There was that Kirito thickness. She needed some kind of way out, and to her credit, she could think as quickly as she could fight, even in the heat of a battle like this. “Didn't you hear those guys? There are PKers actively looking for you, part of a Red guild it looks like, wouldn't it be way smarter to return to town and stay low until the hunt blows over?”
+
+“It's not like you to lose your nerve like that, Asuna, not over something this small. They don't have the element of surprise anymore, and they probably can't even scratch us at our levels. Besides, the longer we wait, the more likely that someone else will complete the quest.”
+
+“Agh, you're too much of a gamer sometimes! There are more important things at stake here!”
+
+“Like what?” He was willing to let Asuna's weird behavior go before, but if she was going to keep drawing attention to it, he would pay attention to it. He was expecting some answer now, and he wouldn't let it go until he had the explanation.
+
+Under the pressure of interrogation, plus the bladder pressure ten times worse, Asuna's mind was racing with excuses. It was dangerous now, she had come down with a status ailment sickness, they had a new mystery on why Kirito was being targeted, any one of them was a possible choice. As she was making the difficult decision on which one would get him off her case, a flashing red notification appeared in the top right corner of her vision, visible only to her. “WARNING: Bladder capacity at 95%. Empty soon,” it read. Given the rate of filling she was dealing with, Asuna roughly calculated that she had minutes remaining. She needed that escape, that relief, right now, a process now taking the forefront of her attention. “Like how I'm about to wet myself!” Unfortunately, it was intercepted by her search for a cover-up.
+
+Once more, Asuna felt the regret of her words the instant she spoke them. That was it, her fabrication had fallen flat, all her time spent suffering under her full bladder was for nothing, now that she had just gone and spilled how something was about to spill into her underwear. Not that it was ever not about waiting, it could be said this whole ordeal was about the agonizing wait, but now she was waiting for a response from Kirito. She could only imagine his second-hand shame, his disgust at knowing his friend was pathetic and couldn't even be trusted with her own urine.
+
+She could linger on those unpleasant thoughts, because Kirito was again taking forever to respond. It took so long this time that some sarcastic side of her wondered if his internet connection was lagging. She didn't make the snide remark, not that she would have under the circumstances, before the response she anxiously awaited with bated breath arrived. “That's it?”
+
+Her reply came much quicker. “What do you mean, 'that's it'?! I'm going to have an accident because I've got nowhere to go and no time to make it back to town!”
+
+“What do you mean, 'nowhere to go'? I figured you'd be comfortable with using nature's bathroom by now. I mean, how long have we been in here?”
+
+“I can't do it with you around, because it's weird and you'll think weird things about me and-”
+
+“What makes you think I care?” That simple question shut Asuna up as she had to admit, Kirito had a point. Reflecting on it, the only reason she figured he'd be grossed out by it was because he was a boy, and girls weren't supposed to talk about those kinds of private matters around those of the opposite sex. Not in the real world. But this wasn't the real world, those kinds of unwritten societal rules didn't apply in SAO, Eincrad was a lawless free-for-all.
+
+More importantly, now was not the time to be hung up by modesty, reality be damned. Mostly because the desperation notification hadn't left Asuna's vision, and its live updates allowed her to see the percentage tick from 98 to 99%. Now more than ever, time was of the essence. She threw her hands on the front of her red skirt, pressing the fabric straight against her crotch with all her strength...accomplishing absolutely nothing, but it was hard to deny years of instinct. There was that nice, big bush they were hiding behind, and she was ready to repurpose it. “If you look, even a little peek, I'll kill you.” She couldn't afford to wait for an agreement, she bolted behind the hedge within a matter of seconds.
+
+At least this marked the finale to the worst of the torment. She had plenty of experience with this part of the process, she didn't even need to think. It was all about the rush to undress, she lifted her skirt up and revealed her pink and white-striped panties. Just as she gripped the waistband underneath her thumbs, she saw the notification make its final jump, hitting that dreaded 100% and begin dropping as rapidly as it had grown, literally draining from her. The warmth of urine spread across her underwear, and in small streams running down her legs, staining the pure white color of her stockings. She was just a second too late, having a total accident as the torrent of pee poured down in a puddle of deafening splashes spreading in the soil beneath her boots.
+
+It would be easy to give up now, but she had come this far, now was not the time to surrender. She ripped her underwear down her thighs, clearing the path for her to squat down and do her business in peace. She couldn't control the flow, it was running at full strength from the moment it began, but at least now it was directed safely. The yellowed waterfall rushed cleanly into the rapidly expanding ocean directly before her, foaming up and pulsing outwards in violent waves. And it just wasn't stopping.
+
+Not that Asuna particularly minded that. While the descent into suffering of building need was masked by the game, it did no such dulling to the relief. It felt, frankly, incredible, one of the best calls nature had ever made to her. “Ooooooohhhhhhh...hah...ah...mmmmmmm...” She closed her eyes and panted, struggling to catch her breath as she shuddered at the intensity.
+
+Her senses were all being overtaken by the unceasing gushing her body was producing. Goosebumps formed on her skin from the chilling pleasure, her ears picked up nothing but the crunching echo of raging rapids crashing against the rocks, she couldn't even focus on anything but the running faucet of her body once she was able to open her eyes. It put most of her senses in a position of total ecstasy, if only the unfortunate reality of smell wasn't bringing it down. This was one instance where she wished SAO put less detail in, in a mechanic she already wished didn't exist. Amazing release didn't change that, though it did make the distaste easier to accept.
+
+It only got worse as her bladder finally neared that 0% she wanted so bad. All the good feelings were fading away, while their undesirable counterparts lingered. Still, she finished, she peed, at least she got the result she wanted. Soon, there wouldn't even be evidence, the liquid drenching the dirt was slowly fading away to reduce strain on the server's resources, leaving no visible proof of what she had done. It would have been a nice consolation, if she had anyone to hide it from.
+
+Or if that consideration was extended to her clothing. Her underwear, looking at it stretched out between her splayed legs, was just as stained as when she wet them. “Ugh, I still have to wear these.” She'd rather ditch the undergarments, but no way that was an option right now. Not with a skirt, with someone to see, and no replacement. Wincing, she stood up and pulled the panties back up around her privates.
+
+There was just one aspect she overlooked, and in all fairness, it was an obtuse thing to consider. The clothes all players wore were counted as equipment and armor, regardless of the defense buff offered. As such, whenever they took damage, it reduced the durability of the item. Getting clothes soaked with pee was counted by the system as a form of damage, and since Asuna wasn't in the habit of checking the stats of her panties, she hadn't realized that mild drenching had brought them to the edge of expiration. That tiny extra step, the minuscule wetness clinging to her girlhood now moving to her underwear pushed them over the line.
+
+She didn't see it under her skirt, but she heard the telltale sound of glass shattering, a default sound effect used for the destruction of items. The mass of translucent blue polygons dispersed and flew out, fading into the air. Another notification appeared in her sight: “Your Panties broke!” She was in stunned silence as the implications of what that meant sunk in. Just to make sure she understood, a gust of wind blew past, lifting her skirt and fully exposing her new nudity. She silently thanked every deity from every religion that she was still in hiding when it happened.
+
+While she'd have liked to stay behind the bush and ensure no one would ever see her, should she be caught short again, she recognized that there was no other way out, aside from messaging one of her friends to bring her a spare set of undergarments, and who knew how long that would take. She had to come out and face the humiliation. Still, she wasn't about to let another breeze pull its tricks, and she pressed her left hand to keep the front of her skirt down, with her right hand doing the same for the back.
+
+Bracing herself for all the worst, Asuna left the cover, the sound of footprints prompting Kirito to look again. “Finally, you were taking forev...” His statement stopped short as he saw Asuna's angry face, the contradicting bright blush flush across her cheeks, and the placement of her hands. “What the hell are you doing?”
+
+“We're going back to town right now.”
+
+“Really? How badly did things go back there?” Asuna refused to answer, just stared a piercing stab into Kirito's eyes, forcing him into submission. “So...how did you let things get this bad? I figured you'd know how to time and prepare this kind of thing by now.”
+
+She wanted to keep quiet and not justify any questions with answers, but she was angry about it, and wanted to get it off her chest. “It wasn't working the same way it always has! My meter kept jumping up super fast, and I didn't have the time to think things through!”
+
+Kirito shrugged. “Maybe you should have thought of that when you kept guzzling down drinks at lunch.”
+
+“What does how much I drank have to do with it?”
+
+“They changed the bladder meter calculations, now it's more realistic. It'll go up faster if you drank more.”
+
+This was news to Asuna. She knew how the bladder meter worked, she figured it out way back when SAO's hostage taking began, and it wasn't anything like that. “Since when?!”
+
+“One of the recent updates. It was definitely in the patch notes.”
+
+She stopped dead in her tracks, eyes wide and mouth hanging open. She didn't know that bit of useful information, making it her fault that she was now going commando. It ignited a whole new wave of fury, and now she needed to release that too, with only one poor sap around to take it. “Even if you spend your nights reading patch notes, the rest of us have other things to entertain ourselves with! Maybe it would have been nice to tell me when you saw me drinking a bunch, before I had to worry about wetting myself! Or do you like seeing me desperate and about to pee?!”
+
+Kirito just shook his head and sighed as he took the abuse, like a husband resigned to a lecture from a nagging housewife. Asuna kept ragging on, but not forgetting to keep her skirt secured. She continued rambling all the way to Lindarth before angrily marching away, leaving Kirito alone. He watched her leave, drawing the attention of the residential players with her awkward walk, until he realized the calm silence he had been denied for so long had returned, giving him the freedom to voice his thoughts once more. “What is her problem? She gets so angry, and fiery, and loud, and violent...it's a little cute.”
+
+*005*2017-11-03 14:55
+
+{{1 minute ago, writerforce6 said:
+
+Not to be the harsh critic, but as a fan of SAO who read the novels... I could not ignore this. The novels explicitly state that there are no bathroom needs in SAO... so this story only makes sense if you've only watched the anime and never read the novels.
+
+}}
+
+Well, there's your answer. It doesn't surprise me that the anime staff considered that detail irrelevant, but I also just assumed it wouldn't have been brought up originally either. And I also didn't think to look it up, because I didn't expect any actual information. As a stickler for continuity and proper canon (I'm still beating myself up for a minor mistake in a Mega Man ZX story), I'll admit I shouldn't have used this scenario, and therefore been unable to write anything, but I'll look on the bright side: this story wouldn't exist if I knew that.
+
+*009*2018-09-09 19:33
+
+Commissioned by @daveshuyi
+
+###
+
+"What is taking him so long," Asuna Yuuki wondered as she stood awkwardly at the front desk of the Salon de Cafe, looking around at all the patrons at their tables, while she had to stand there, waiting for someone else. And there was one thing she was noticing among the customers, her fears from the outside being confirmed. "I'm way underdressed." This was a pretty classy place, and she was just dressed in normal street clothes. Granted, her normal clothes were nice, with a white coat, pink sweater underneath to stave off the mid-December Tokyo weather, but it wasn't cold enough to stop her from wearing a crimson skirt with only black tights beneath. She looked nice, but she wasn't dressed up and that made her feel inadequate. "Maybe I should have looked up the address when Kirito sent it, gotten a sense of the clientele."
+
+"Yo, Asuna!" Upon hearing her name, and the voice she recognized best outside her family, Asuna swiveled around towards the entrance. Instantly, her worries about being overdressed washed away. Coming through the glass door was the man she was waiting for, the man who had invited her out for the day, Kazuto Kirigaya, or Kirito as she knew him as. To say the two knew each other from the days of Sword Art Online would be leaving out 99% of the story. Being used to him, her first thought was how basic he was dressed, in the same clothes he wore everywhere besides school: jeans, a t-shirt, and a black coat . "Sorry, were you waiting long?"
+
+"Not that long. So, why'd you pick a place like this? This is more of the place I'd expect my mother to frequent, not so much you."
+
+"You remember Seijirou, right? He treated me to this place while he was giving me the lowdown on Death Gun. It seemed like the sort of place that would make for a good date. I had a day off, you had a day off, so all the pieces fell into place."
+
+"Kirito, you don't have to go to such lengths just for me. I mean, how much does a place like this cost?"
+
+"...you got me. I have an ulterior motive for picking this place. Truth is, I still have a lot of money from the GGO case, even after buying a few things for myself and Sugu, it's more than I know what to do with. I do this, I can treat you and spend a lot of that cash all at once. Another win-win."
+
+"Wow, I wasn't expecting such a practical reason for a man as obsessed with style as you."
+
+"What's that supposed to mean?"
+
+"You stuck by a Photon Sword in a game called Gun Gale Online because it looked cool."
+
+"No, it was because I spent years honing my skills with the blade! I don't know how to use a gun!"
+
+"And I recall one of our first encounters involved arguing over who got to keep a black coat that you just wouldn't give up."
+
+"I don't remember it going like that. Not saying it doesn't sound like me, but..."
+
+"But you would do it. Because that's the Kirito I know." Asuna smiled happily, bringing Kazuto back from his arguing. Regardless of his quirks, she loved him, a very calming thought. "Well, you're here now. Let's get a table."
+
+"After you." Asuna took the lead, though Kazuto still guided her to a table for two by the windows. "Be sure to take a close look at the desserts menu, they've got some real ritzy stuff."
+
+"I'll look, but I need to be careful. A lady needs to watch what she eats."
+
+"Come on, you can let loose a little bit. I still think you look a little malnourished."
+
+"What kind of a compliment is that?"
+
+"It's not. Are you sure that's how you looked before Aincrad?"
+
+"Of course it is! I've been through physical therapy same as you, and I've weighed myself again! Same as I've always been, thir-" In her rant, Asuna had almost lost herself and revealed a woman's greatest secret. "It's none of your business!" She looked away as a blush illuminated her cheeks, grinding their conversation to a halt. It was only after a few seconds of silence that she looked back a small bit. "...do you really think I'd look better with a little more weight?"
+
+"I don't think it's my place to tell you what to do, but I wouldn't exactly mind it."
+
+"...I'll think about it." Asuna hid her face behind the laminated paper menu, not exactly reading the contents, just blankly staring at the words.
+
+"Are you two ready to order anything?" In her self-inflicted isolation, she didn't notice the waiter approach their table.
+
+"Should we just start with drinks, Asuna?"
+
+Now she needed to super quickly scan the drinks menu to find something there she'd like. Time to prove that "Flash" was a legitimate nickname for her. "I'll take some of the green tea, if you please."
+
+"And for you, sir?"
+
+"Uh...I'll have the same. Actually, if we're both ordering the same thing, we should just get the pot of tea and share it. Is that alright," Kazuto asked.
+
+"Yes, that sounds fine," Asuna agreed, putting her menu down on the table. "Thank you," she said to the waiter, dismissing him so he could fulfill their order. Now was the traditional time to hold small discussion. "Shino's first day in ALO was last week, wasn't it? How did it go?"
+
+"Er, it went...fine. Yeah, nothing too special! We tried to complete that dungeon in the plains, just the two of us. We made it to the boss, he killed us, and...that was it!"
+
+Kazuto never was a good liar, that much was clear from how awkwardly he retold the tale, yet Asuna made the conscious decision not to pursue questioning it, or else she might cause a scene in public with what she'd be told. If he was hiding it, he had reason to be afraid. Still, it was worth remembering, to grill him about later. Instead, she'd be asking the innocent questions for now. "Did Yui enjoy herself?"
+
+"Yeah, she did. You know how she is, she always enjoys making new friends."
+
+"Yes, I know. She's a good girl." The waiter returned with their white kettle of tea on a tray with two china cups, as Asuna noticed quickly. "Oh, thank you, sir," she welcomed, taking the pot and placing it gingerly in the center of the table.
+
+"You've got a real knack for being polite, Asuna."
+
+"Hm? Oh, yes, my mother was very diligent in raising me to be a proper lady."
+
+"Well, good for her. You've turned out pretty well."
+
+"Yeah...to be honest, I kind of envy you."
+
+"Why? I can't think of reason why anyone would want to be me. You know, aside from the incredible skill at video games. Real enviable position I got."
+
+"Because you get to be you. I have to act like a person I'm not just to make my mother happy, or I'm forbidden from my few outlets to be myself." She began pouring herself tea, looking down to ensure she didn't overflow the cup, serving a secondary purpose to not look Kazuto in the eye as she opened up about her personal life and concerns.
+
+Kazuto didn't know how to respond to that. Despite the times he had been forced to do so, heart-to-heart support was not his strong suit. Maybe he had a natural talent for it, because the women he told "everything will be alright" to found strength in those words. So, it couldn't hurt to try again. "So, the girl I know isn't the real you? The girl I married in SAO isn't the girl you want to be? Maybe I should rethink something, then."
+
+"N-no, that's not what I'm saying. I want...I want you to...you know what, forget it. This is supposed to be a date, and I'm bringing the mood down. I apologize for that." She brought the cup to her mouth, holding it with her pinky finger extended, slowly sipping it, so as to not burn her mouth. "Mmm! This is really good!"
+
+Hearing the high praise, Kazuto poured his own share of the tea, drinking it quicker in a trademark reckless move. "Agh, too hot for me! I need to let it cool for a while before I can drink it."
+
+"Suit yourself," Asuna shrugged, finishing off her cup, and quickly pouring another. She could probably drink the whole kettle, it was that good.
+
+###
+
+Ooh...I've made a horrible mistake. While Asuna hadn't made good on her promise to drink all the tea, a large fraction of it had indeed made it into her stomach. Or rather, it was previously occupying her stomach. Now it had trickled down south, collecting in her bladder in large quantities. Of course, she felt no urge while in the cafe, only a slight twinge while they were looking at books, a more pressing desire while she dragged Kazuto with her into looking at accessories, yet of course, the real need didn't arise until they were outdoors, in the park, with no restrooms to be found.
+
+Well, in all honesty, she didn't know for a fact there were no bathrooms. She hadn't exactly gone looking, how could she with her boyfriend by her side at all times? She couldn't exactly tell Kazuto that she needed to pee, inform him of an action ranked among the top of a woman's most private. Not after what happened last time. Asuna didn't like the hold her mother had over her life, but she still took a few of the teachings to heart. Teachings such as "a lady's desire for the latrine should be kept to herself".
+
+That's why, as the two sat on a bench in the park together, Asuna was subtly trying to squirm in her seat without drawing attention to herself. It was a challenging endeavor, finding that perfect, tiny balance in speed and ferocity at which she could rub her knees, between it being too slow to make a difference and too fast to remain stealthy. A lot of fine-tuning was required, leaving a lot of time for her bladder to begin whining about lack of reprieve.
+
+Can I even make it back home before...something really bad happens? She didn't exactly live "close" to here, coming here required taking the train, so if she didn't get moving soon, she'd be cutting it incredibly close at the absolute minimum. If she dawdled, she'd have an accident in the walk between the station and her home, or worse, on the train. She needed to hurry, time was of the utmost essence.
+
+But she was on a date with Kazuto at the moment, she couldn't just run off without any explanation. After their discussion earlier about who she wanted to be, if she just bailed on their date, he would think she was having second thoughts about their relationship. That wasn't the message she wanted to send, leaving her in a bind without a correct escape.
+
+...should I just tell Kirito? While the first time was far from intentional or ideal, she had told him about an urgent need to pee in the past. So there was precedence, she had real proof that it didn't bother him, and it had to be better than wetting herself. But, on the other hand, that meant she had suffered through that horror once already, and had good reason to be in no hurry to repeat that moment. If Kirito never knows I need to use the bathroom again until the day I die, it'll be too soon.
+
+No, this was the time to prove that she was one of the toughest players in Aincrad and be strong. She was nearly an adult, she couldn't be having a toilet emergency like a little kid anymore. It was her self-respect on the line, it was simply unacceptable to degrade herself to a lower level than a tutorial enemy. She would hold it. She had to hold it.
+
+"Are you cold, Asuna," Kazuto asked from her side.
+
+Asuna felt her heart stop. "W-w-why do you say that?!"
+
+"Um...you're shivering. That's why I asked. I don't think a skirt was the best choice for hanging around outside, not with today's weather."
+
+Asuna didn't even notice, but she looked down at herself and saw that, yes, she was shaking. She corrected that outward indicator of her state immediately. "I-it's really not that bad! I can handle a little chill."
+
+"Do you want my coat?" Even as he was making the offer, Kazuto was already unzipping his coat, slipping his arms out of the sleeves.
+
+"No, I wouldn't want to disturb your carefully-cultivated look. Frankly, you'd just look wrong in anything other than black."
+
+"Hey, my school uniform is dark blue. My first SAO avatar wore dark blue too."
+
+"Eh, that's close enough to black that it doesn't bother me. But a white tee? That's like the complete opposite of your usual color alignment." That was a good sign, even amidst her desperation, she kept some biting wit about her. Maybe she wasn't as bad off as she thought, that she was worrying herself for nothing.
+
+That is, until she was hit with a surge of pain from her bladder, attempting to force its contents out in one push, save itself from the stress of holding any longer. Of course, Asuna wasn't having that, and she clenched her muscles to prevent any outflow, seizing her muscles in a frantic panic to stop any leaks before they could start. It worked, she remained entirely dry, but the wave hurt. No, I was right the first time. I have almost no time left.
+
+"Alright, what is it this time? Your leg is shaking even worse this time."
+
+Ah, I really need to pay mind to what I'm doing! "I-I promise, it's really nothing. My leg just fell asleep, that's all."
+
+"We've been sitting down for a while now, should we start walking again?"
+
+I don't know if I can handle much more aimless walking, it's imperative I not overexert myself right now. "T-that's okay, I don't-" But if we were to happen upon a public restroom, I could say I'd like to wash my hands or freshen up, and go in without admitting anything! "Actually, that sounds good. We may as well look at the rest of the park."
+
+"Cool. Let's get going," Kazuto led, standing up, taking Asuna's hand to pull her up. "I hear there's a good flower garden on the opposite end."
+
+"O-oh, that sounds nice." Well, if I'm looking for the bathroom, better to cover as much ground as possible. But it's not going to be easy, that's for sure. As the two headed down the path, she put her feet closer together and walked in small steps, thighs rubbing against one another with each tiny stride, heating her legs with the friction of her tights. The relief it provided was minimal, but right now, she would take anything. Those few extra seconds she could last may very well turn out to be the deciding factor.
+
+###
+
+Nng...hhng...ah ah ah! In such a short time, Asuna's desperation had spiked significantly, far quicker than she had thought possible. Why did I ever think drinking a lot of tea wouldn't result in this? It took every ounce of her willpower to not grab her crotch and start childishly dancing right where she stood, out of fear of judgment by the many bystanders, and the fear tenfold stronger of what Kazuto would think. This is way different than being in SAO, I have no idea how he'll react this time!
+
+"They're really beautiful, aren't they, Asuna?" And Asuna had yet to find a bathroom, not even a glimpse of one despite her focused search. She certainly wasn't going to stumble across one here, a section of the park that was nothing but flat land, concrete paths stretching and spreading across the grounds like veins, all the grassy plains between them filled with homogeneous breeds of flowers in each separate field. The garden was so large that she could hardly see the borders from where she was standing, and there definitely weren't any bathrooms.
+
+All she could do now was continue her crusade to not let on that she was in peril. And the only way she could do that was by distracting herself. "Y-yes, they are. I can only imagine how much effort it must take the groundskeeper to maintain this."
+
+"I'd say it's worth it. I think a field of flowers like this is really relaxing to look at. Like, the large swaths of one solid color, blowing in the breeze...I find it soothing."
+
+"R-really? I wouldn't have expected that soft side out of you." Don't make me laugh right now, I really can't handle it! She could perfectly picture the state of her bladder, like watching a river crash up against a dam, her imagination turned the river yellow, and suddenly, it was an accurate depiction of her body. At least, as far she figured. The mental image progressed, as the tide rose higher, almost overtaking the concrete wall, which was cracking under the crashing force.
+
+Not good, not good! I can't last much longer! The urge was becoming louder, more demanding, and Asuna needed to find some way, some place, to relieve it. But there's no bathroom...what am I realistically supposed to do?! She looked around frantically for the tenth time, but no matter how many times she scanned her surroundings, a public restroom had yet to magically appear.
+
+Ordinarily, that should have been the only criteria in her search, but as the time of an accident drew closer and closer, she began adding more maybes. Right outside the outer edge of the flower garden were trees, bushes, large pieces of flora that could theoretically hide a squatting woman of her size. What am I thinking?! I couldn't possibly...but I could... It wouldn't be hard, just get away, squat behind something, pull her tights down, and... No no no, I can't! Two years in Aincrad must have really screwed with me if I'm still thinking relieving myself outdoors is okay! Ugh, too many drinks, far too many drinks...
+
+Drinks! That's it! "Hey, Kirito, I'm going to the vending machine to get some drinks. What do you want me to bring you?"
+
+"Really? Don't you think you've had enough to drink today?"
+
+Don't I know it! "My mouth's just a little dry, is all."
+
+"I can come with you, and pay for my drink, if you'd like."
+
+"No! Um, I mean, that's fine. You've treated me for everything today, I can spend a few hundred yen for myself and you."
+
+"Well, if you insist. I'll just take some lemonade."
+
+"Got it. I'll be back in a few minutes." That's a low estimate! I'll probably take a few minutes just going! Asuna walked briskly in the direction they entered the garden from, keeping her legs close together as her body strained to move amidst every stiff muscle.
+
+It took a few minutes for her to escape the flower garden at her slow pace, upon which she immediately shuffled in the opposite direction from where the two initially came from. If there was a restroom to be found, it had to be somewhere she hadn't seen yet. But the park looked so big from the outside...I'll need some amazing luck to find anything!
+
+As she hobbled through the park, Asuna continued to deteriorate. Without anyone she knew to witness, she had little hesitation in grabbing herself with everything she had, fingers quivering against her panties through her tights as the muscles in her palms rhythmically tightened. "Mmph...nngh, aah..." She couldn't stop grunting in distress as she suffered through each individual step, her hold growing weaker and weaker every time her shoes hit the pavement.
+
+"Please...please, just give me something, I'm begging..." Those bushes are looking better and better every time I see them... Asuna had her pride, but she wasn't made of steel. It has to be better than having an accident, right? The mere idea went against every fiber of her being, but she couldn't deny just how amazing it would feel to pull her underwear down and let out a flood of urine behind some shrubs. It's really nothing bad...I wouldn't be a bad person for doing it...I did it a thousand times in Aincrad...
+
+Yet, even as she continued to give herself reasons that public urination was the correct course of action, she couldn't bring herself to accept it. No...I'm a woman...I'm a lady...there's a proper restroom somewhere, it's my duty to wait to use that. "But if it's not incredibly close, I'm going to disgrace myself." But even after she had made up her mind, she couldn't help but divert her gaze to the bushes and trees she passed and whine, pining for the release they could bring if she could just let her guard down and abandon her dignity for two minutes.
+
+"Eep!" Well, she let her guard down, just in the completely wrong situation. She had inadvertently relaxed just a slight bit, and with that error came leaks. With her hands placed directly on her crotch, she felt the warmth immediately. The tips of her fingers, clutching her pee hole shut, suddenly had a wet sensation forced upon them, straight through her panties, straight through her tights. It was small, only a tiny trickle, but the message was clear: "I can't hold it any longer!" If Asuna couldn't find a toilet right this second, she'd lose it. Her other hand shot down, forcing her skirt against her body, squeezing her eyes closed to focus all her energy on avoiding an accident.
+
+After a solid minute of nothing but agony and suffering, dancing in place, possibly drawing the attention of every bystander, Asuna found the strength to open her eyes. And what she saw was the most beautiful thing she had seen in her life; in her haze, unable to think about anything beyond her burning need to pee, she had miraculously managed to shuffle within sight of a small brick building, with two entry points, marked with signs denoting gender. Asuna had made it to the bathroom. She could cry.
+
+She could cry for many reasons, as the next thing she noticed besides the building itself gave her good reason to. Standing in front of the door to the ladies room was a line of women a dozen strong. Some of them looked to be in decent shape, but at least half were in dire straits, holding themselves and dancing, counting the seconds until the queue moved forward even one person. With a crowd like that, no matter how desperate she was, Asuna would get no sympathy asking to cut the line. The only path into the bathroom was through waiting, and though she sincerely doubted her ability to do so, Asuna took her place at the back of the line.
+
+The change in her body was instantaneous. Whether it was the knowledge that a toilet was within her grasp, or knowing that it would elude her at this rate, her bladder spasmed and contracted, attempting to void its contents now. With her hands in the direct line of fire, Asuna felt the heat. "Agh!" Once again, it was short-lived, but the power behind it left an impact, splashing into her palms as the majority of her hands could feel the wetness. "T-this line better hurry up," she complained, bouncing in place and rhythmically colliding her knees, all the while bending forward at the waist, perhaps exposing a little more than appropriate from behind.
+
+"Don't count on it," the girl in the spot before her warned, her tall stature making her potty dance all the more striking. "I've been here for ten minutes, and it feels like I've barely moved an inch. Ooh, if I was in the game, I could run in and be done in a second," she muttered, lifting one leg and rubbing it against the other.
+
+So far, that prediction was proving accurate. Three minutes passed, yet only one woman exited and one woman entered. Is only one toilet working? Are the rest disgusting? I'm having an emergency here, you can all handle a little grime in the interest of hurrying things up! Yet, no matter how much she pleaded, the pace remained unchanged and agonizingly slow. How can I be expected to not wet myself at this rate?!
+
+And the most torturous part was that, to her right, lay a second, vacant entryway, marked with a simple figure on a sign, identifying it as the male's restroom. A dozen women were being tormented by their bladders, and there was a perfectly functional, unoccupied men's room right there. I could...it would just take a minute, I'd be out before anyone could be weirded out...it's still a real bathroom, the men's room can't be that much different than the women's...
+
+But what if there is someone inside?! Oh, if a man saw me enter so shamelessly, I'd die of embarrassment! I'd never be able to get married after that! Once more, a reasonable solution was presented to Asuna, practically gift-wrapped, but she couldn't convince herself it would be a solution she could live with. Every time, there was some fear of discovery that prevented her from following through. Asuna had standards. Standards that continued her torment.
+
+A chilling breeze blew past the line, giving Asuna goosebumps under the low temperature. Thankfully, with her hands pressing her skirt down, the wind was unable to expose her underwear to the world, but that didn't mean she survived it unscathed. The gust was cold, the speed giving it the sensation of being far colder than the surrounding stationary air. That was to be expected for the winter season, but such a biting freeze had a negative effect on Asuna's constitution, the contrast between the cold air on her skin and the hot urine inside her body.
+
+Asuna wasn't cold for long, or rather, her lower half wasn't. A surge of pee rushed out before she had any clue what was happening, drenching her panties in a second, piercing the front of her skirt pressed directly against the source, and a good portion snaking down her tights, dying the dark leggings even darker as the stream had nowhere to go with her legs pressed together but over her thighs. By the time it reached her feet, the multiple pieces of clothing and bodily impairment had broken the flood apart, and it crashed onto her shoes and the pavement in several simultaneous, powerful in their own right, gushes of urine.
+
+The splashing of the growing puddle was certainly loud, drawing the attention of everyone in the line, accelerating the pee dances of some of the more desperate members, but it was positively deafening to Asuna. As the pool expanded thanks to the plentiful additions from above, she lost the ability to hear anything outside her immediate radius. She didn't want to hear anything, with so many witnesses, there would be one reaction sure to surface: mocking. She was now an adult, one dressed as the respectable member of society she tried to be, having an accident in the line to a public bathroom in the park.
+
+Asuna could hardly think. It was partially due to the immense relief coursing through her body, she was bursting to pee and nothing could take away how good it felt to finally go after ages of waiting. However, that was hardly the most prominent thought on her mind. It happened...I put myself through torture to make it to a proper restroom, I turned down several alternatives to do so, and I still couldn't do it! I'm a failure. Maybe it would have been better if I did simply use a bush. I mean, it'd be a hundred times worse if someone saw me bottomless, but if I picked somewhere out of the way, that wouldn't have happened. Ugh, this was so much easier in Aincrad... Of course, none of those articulated introspections made it out of her mouth, instead replaced with one simple vocalization: "Oohhhhh..."
+
+The next minute dragged on for an eternity, as Asuna continued to pee and pee, completely drenching the inner half of her tights and dying the front of her skirt a dark red. Any viewer could tell from a simple glance that, unless Asuna had a gargantuan bladder capacity for her size, she was ready to explode, and she couldn't help but let loose. By the time her golden waterfall slowed to a trickle, the puddle surrounding her had stretched well beyond her feet, far enough that it could have reached the woman standing in front of her, if she hadn't been able to step forward thanks to the slowly-shrinking line.
+
+Finally, Asuna drifted back into reality. She blinked several times as she took in the bright sights of nature she had abandoned as soon as the floodgates opened, her worst fears realized. Once she could see again, she saw the other members of the ladies room line looking at her, or at least the ones not completely absorbed in not repeating her mistake. Even a few others who had just happened to walk by at the worst time had stopped to take in her shame. She could almost hear the laughter at a member of the wealthy Yuuki family doing something most toddlers had grown out of. If anyone knew who Asuna was, or if she was close enough to home to risk anyone she knew seeing her, she'd never be able to show her face in public again.
+
+No longer anchored to the spot by her unresponsive muscles, occupied by her nerves overloaded by blissful release, Asuna did the only thing she could do, given the circumstances: run. Water began to form on her eyes instead of her crotch as her chest grew tight and her breathing shallow, she let go of her womanhood and bolted from the scene, trying not to cry, an effort that would soon turn out to be wasted energy. Tears flowed freely down her cheeks, smearing and blurring her vision before she gave up and closed her eyes, and shouts of anguish filled the air around the stumbling, soaking young woman.
+
+Her race away from her humiliation didn't leave much focus available to look forward, only avoiding looking behind. As such, it was only a matter of time before she crashed into something hard at top speed. If it was a tree trunk, she could have been seriously hurt, but whatever she hit recoiled back, like only a person would. "Ow! S-sorry," Asuna apologized, rubbing her sore spots down.
+
+"Asuna?" Oh no. No no no nononononono! Anyone but him! Literally anyone would be better than Kirito! She really wanted to believe it wasn't him, like she could force it to be truth, but that voice didn't lie. In her blind panic, she had collided with exactly the man she had been running away from in the first place. "There you are, I came looking for you when you didn't come back. What happened?"
+
+Asuna didn't respond. She didn't even look in Kazuto's direction, deliberately looking far to the side to avoid even the slightest glance at him. There were several seconds of awkward silence before Asuna made her move: leaping to her feet and attempting escape before Kazuto could catch wise.
+
+Despite being well-known for speed, Flash could not escape Kirito's lightning-fast reflexes, he grabbed her wrist once she stood up partially, still hunched over but on her feet, and wouldn't let go. "Hey, where are you going?"
+
+She struggled against his grasp, but wasn't making any headway from it. If anything, the fight only made her predicament worse. Kazuto was eye level at her skirt, far closer than he should have been allowed to be. Hiding her accident was an impossibility here. All she could do was run away from the consequence. "Leave me alone! Just let me go!"
+
+"What? Why would I do that?"
+
+"You can see plenty well why! Do you really want to be seen with me now?"
+
+"Well...yeah, I can see everything, but what does it matter? Is that really the reason you ran away?"
+
+Asuna continued to wrestle for her freedom, but Kazuto was serious about keeping her close, leaving her no choice but to surrender, falling to her knees, a painful drop onto hard cement ground. "What's so wrong with not wanting to tell a boy about needing to use the bathroom?"
+
+"Multiple things. First off, didn't we have this exact same discussion back in SAO? And second, is it really so bad just to admit you need to go to the bathroom? You know, when this is the alternative?"
+
+"You weren't exactly sympathetic to my problems back in SAO either. You didn't help me then, why would I ever confide in you now?"
+
+Kazuto was silent for a few moments as he let the accusation sink in. "...did you want me to comfort you?"
+
+"I don't know, maybe. It certainly wouldn't have hurt to try and care about me when I was upset."
+
+Once again, there was silence, outside of Asuna sniffling. The only thing that could calm her down was Kazuto reaching forward and hugging her. "Well, if it'll make you feel better. I can't stand to see you cry."
+
+Stunned at the sudden affection, Asuna could only hug back. "T-thanks...so what made you think to come looking for me? And what made you think I'd be here?"
+
+"Well, truth be told...I had sort of guessed what was bothering you a while ago."
+
+"What?! H-how?!" After I went to all that effort to hide it?!
+
+"The fact that I know exactly how you act when you need to use the bathroom? You can't stand still, your eyes dart about everywhere, and you suddenly act like you don't want to be anywhere near me. Also, I've got a sister, so you're not the first girl I've seen desperate."
+
+"Oh, yeah..."
+
+"So let me ask a question: why are you so determined to keep it a secret when you gotta pee? You've already told me before, I told you it didn't bother me, so why not tell me this time?"
+
+"...because...it just feels wrong. It's a private thing, I can't just go telling you like it's no big deal."
+
+"But...it is no big deal. Whether or not it's something you want to admit, it's something you need to do. You could have just said 'I need to go to the bathroom' at any point, I would have said it was fine, and you'd be done. Instead, you let...this happen, out of nothing but stubbornness. Sugu's the exact same way, and it just makes no sense to me."
+
+"I don't think I can explain it. It's just a girl thing." Even calling it that was stretching, Asuna had no solid answer.
+
+"Look, just...just be open with me. I don't want to overstep any boundaries by questioning things, but I can tell when something's bothering you. And I want to help, support you. And I can't do that if you think even the most normal human thing is too much for us. Do you think Yui's happy that her mom is making life so hard for herself?"
+
+"O-of course she isn't! I'm not saying you're wrong, but...it's just so hard. I can't just undo what I've spent my whole life learning is proper behavior."
+
+"I'm not asking you to, I just want you to trust me. We've put our lives into each other's hands, I want you to know...that I want what's best for you." Kazuto winced, a response that even his girlfriend covered in her own urine couldn't trigger. "Ugh, it's hard being all cute."
+
+"But I like it." Asuna leaned in close and gave Kazuto a quick kiss on the lips. "Don't think I don't want you there watching out for me, it's just such a new experience. I don't know how to act."
+
+"Take your time. I can wait until you're ready. Oh, but we should probably hurry you back home to change." Standing up, Kazuto, who had never let go of Asuna's wrist, pulled her up to her feet as well.
+
+"Yes, I do need that pretty badly. But you don't have to come with me, I can take the train myself."
+
+"But do you want to? Are you okay with everyone staring at you without anyone there for you?"
+
+"...no. Okay, but I'm paying for your pass."
+
+"You don't need to-"
+
+"You've done so much for me today, it's really the least I can do to repay you."
+
+"Okay," Kazuto nodded. Moving his grasp up Asuna's arm, he linked elbows with her, leading them out of the park, to the nearest exit to the train station.
+
+Until a gust of wind blew past, making Asuna shiver. "Um, Kirito? Is it okay if I borrow your jacket to tie around my waist? It's...a little embarrassing how visible the accident is, and...you know, my white coat could get ruined if I used it."
+
+"That's fine, I can always wash it." Unzipping his black coat, Kazuto slipped his arms through the sleeves and handed the jacket to Asuna, allowing her to tie the sleeves around her back and let the torso lay over the front of her skirt.
+
+Well...it doesn't hide everything, but it's a little better, I suppose. "Thank you." Asuna tilted her head and laid it on Kazuto's shoulder, relaxing herself as her speech dropped into a mere whisper. "I love you, Kirito."
+
+*013*2018-09-10 14:56
+
+{{10 hours ago, Night Rain said:
+
+Some Silica action or one of the other female characters would be a fun read.
+
+}}
+
+Well, Alicization is right on the horizon. Who knows what that could provide.
+
